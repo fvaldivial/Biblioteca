@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/clases/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/clases/Utilitarios.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/bean/UsuarioBean.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/RegistrarServlet.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/index.jsp</file>
+        </group>
+    </open-files>
+</project-private>
