@@ -5,16 +5,28 @@
 --%>
 
 <%@page contentType="text/html" pageEncoding="UTF-8"%>
+<%@taglib uri="http://java.sun.com/jsp/jstl/core" prefix="c" %>
+
+
+<c:set var="ListaLibros" scope="session" value="${sessionScope.ListaLibros}"/>
 <!DOCTYPE html>
 <html>
     <head>
         <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-        <title>Usuario</title>
+        <title>JSP Page</title>
     </head>
     <body>
-        <h1>Usuario</h1>
-         <a href="ListaLibros.jsp"> Lista de todos los libros disponibles</a>
-        <a href="mostraruno.jsp">mostraruno</a>
+        <h1>Hello World!</h1>
         
+        <c:forEach var ="libro" items="${ListaLibros}">
+
+            <c:out value="${libro.getIsbn()}"/><br>
+            <c:out value="${libro.getTitulo()}"/><br>
+            <c:out value="${libro.getAutor()}"/><br>
+            <c:out value="${libro.getPaginas()}"/><br>
+
+
+        </c:forEach>
+
     </body>
 </html>

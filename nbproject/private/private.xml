@@ -3,14 +3,29 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/clases/MongoUtil.java</file>
             <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/LoginServlet.java</file>
             <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/WEB-INF/web.xml</file>
-            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/clases/UsuarioDAO.java</file>
-            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/usuario.jsp</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/UnoServlet.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/mostraruno.jsp</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/agregarlibro.jsp</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/bean/LibroBean.java</file>
             <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/clases/Utilitarios.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/ListaLibros.jsp</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/ModificarServlet.java</file>
             <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/bean/UsuarioBean.java</file>
-            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/RegistrarServlet.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/TodosServlet.java</file>
             <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/index.jsp</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/Registro.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/clases/UsuarioDAO.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/cambiarestado.jsp</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/clases/LibroDAO.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/conf/MANIFEST.MF</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/admin.jsp</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/editar.jsp</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/src/java/pe/arq/servlets/RegistrarServlet.java</file>
+            <file>file:/C:/Users/Fabrizzio/Documents/NetBeansProjects/Biblioteca/web/Error.jsp</file>
         </group>
     </open-files>
 </project-private>
