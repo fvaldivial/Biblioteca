@@ -16,6 +16,14 @@
         <servlet-name>TodosServlet</servlet-name>
         <servlet-class>pe.arq.servlets.TodosServlet</servlet-class>
     </servlet>
+    <servlet>
+        <servlet-name>UnoServlet</servlet-name>
+        <servlet-class>pe.arq.servlets.UnoServlet</servlet-class>
+    </servlet>
+    <servlet>
+        <servlet-name>ModificarServlet</servlet-name>
+        <servlet-class>pe.arq.servlets.ModificarServlet</servlet-class>
+    </servlet>
     <servlet-mapping>
         <servlet-name>LoginServlet</servlet-name>
         <url-pattern>/LoginServlet</url-pattern>
@@ -31,6 +39,14 @@
     <servlet-mapping>
         <servlet-name>TodosServlet</servlet-name>
         <url-pattern>/TodosServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>UnoServlet</servlet-name>
+        <url-pattern>/UnoServlet</url-pattern>
+    </servlet-mapping>
+    <servlet-mapping>
+        <servlet-name>ModificarServlet</servlet-name>
+        <url-pattern>/ModificarServlet</url-pattern>
     </servlet-mapping>
     <session-config>
         <session-timeout>
